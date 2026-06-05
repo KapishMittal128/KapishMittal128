@@ -1,56 +1,28 @@
-<!-- ========================= -->
+# Hi 👋, I'm Kapish Mittal
 
-<!--      KAPISH MITTAL        -->
-
-<!--      PROFILE README       -->
-
-<!-- ========================= -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Kapish+Mittal;Hackathon+Winner;Full-Stack+Developer;AI+Enthusiast;Building+Technology+For+Impact;Always+Learning+Always+Building" />
-</h1>
-
-<h3 align="center">
-🏆 Skill Expo Nationals 2026 Winner • 🏆 Indux Hackathon Winner
-</h3>
+<h3 align="center">Full-Stack Developer • AI Enthusiast • Skill Expo Nationals 2026 Winner • Indux Hackathon Winner</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=KapishMittal128&label=Profile+Views&color=blueviolet&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/KapishMittal128?style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/KapishMittal128?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Kapish+Mittal;Full-Stack+Developer;AI+Enthusiast;Hackathon+Winner;Building+Technology+For+Impact;Always+Learning+Always+Building" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KapishMittal128&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/KapishMittal128?style=for-the-badge" />
 </p>
 
 ---
 
 # 🚀 About Me
 
-```typescript
-const kapish = {
-  name: "Kapish Mittal",
-  username: "KapishMittal128",
-  role: "Full-Stack Developer",
-  experience: "2 Years",
-  location: "India",
-  email: "kapishmittalishere@gmail.com",
-
-  achievements: [
-    "Skill Expo Nationals 2026 Winner (Health & Wellness)",
-    "Indux Hackathon Winner",
-    "Worked With Smart City Gwalior",
-    "Worked With Nagar Nigam Gwalior"
-  ],
-
-  interests: [
-    "Artificial Intelligence",
-    "Web Development",
-    "Automation",
-    "Hackathons",
-    "Startups",
-    "Product Building"
-  ]
-}
-```
+* 👨‍💻 Full-Stack Developer with 2 Years of Experience
+* 🤖 Passionate about Artificial Intelligence, Automation & Emerging Technologies
+* 🏆 Winner — Skill Expo Nationals 2026 (Health & Wellness)
+* 🏆 Winner — Indux Hackathon
+* 🏙️ Collaborated with Smart City Gwalior
+* 🤝 Collaborated with Nagar Nigam Gwalior
+* 🌱 Constantly learning and building new things
+* ⚡ Interested in startups, AI systems, full-stack products, and innovation
 
 ---
 
@@ -64,18 +36,7 @@ const kapish = {
 
 🤝 Nagar Nigam Gwalior Collaboration
 
-⚡ Full-Stack Developer with 2 Years of Experience
-
----
-
-# ⚔️ Current Mission
-
-* Building impactful technology
-* Learning advanced AI systems
-* Exploring automation workflows
-* Creating scalable products
-* Participating in innovation competitions
-* Expanding full-stack development expertise
+⚡ Full-Stack Developer with 2+ Years of Experience
 
 ---
 
@@ -123,7 +84,7 @@ const kapish = {
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite" />
 </p>
 
-## Cloud • DevOps • Infrastructure
+## Cloud & DevOps
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions" />
@@ -166,19 +127,23 @@ const kapish = {
 
 ---
 
-# 🔥 Developer Mindset
+# 📌 What I'm Working On
 
-```text
-Build > Talk
+🚀 Building AI-powered applications and automation systems
 
-Ship > Perfect
+🌐 Developing full-stack web applications
 
-Learn > Assume
+🤖 Exploring advanced AI and machine learning workflows
 
-Consistency > Motivation
+☁️ Learning cloud infrastructure and scalable architectures
 
-Execution > Ideas
-```
+🏆 Participating in hackathons and innovation competitions
+
+⚙️ Experimenting with emerging technologies and developer tools
+
+📚 Continuously improving problem-solving and engineering skills
+
+💡 Turning ideas into real-world products
 
 ---
 
@@ -213,29 +178,6 @@ Execution > Ideas
 
 ---
 
-# 🎖 Fun Stats
-
-```javascript
-const kapishStats = {
-
-  coffeeConsumed: "∞",
-
-  bugsCreated: "1,000,000+",
-
-  bugsFixed: "1,000,001+",
-
-  ideasPerMinute: 42,
-
-  buildMode: true,
-
-  learningMode: "Always On",
-
-  challengeAccepted: true
-};
-```
-
----
-
 # 📫 Connect With Me
 
 <p align="center">
@@ -251,12 +193,6 @@ const kapishStats = {
 </p>
 
 ---
-
-<h2 align="center">
-
-"Technology becomes meaningful when it creates real-world impact."
-
-</h2>
 
 <p align="center">
 ⭐ Thanks for visiting my profile ⭐
